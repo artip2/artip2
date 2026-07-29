@@ -64,5 +64,5 @@
 <!-- ГРАФИК АКТИВНОСТИ ВНИЗУ (ТЁМНО-ЗЕЛЁНАЯ ТЕМА) -->
 <div align="center">
   <h3>📉 Contributions</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=roezer&theme=github-dark&bg_color=0a120b&color=52b788&line=52b788&point=74c69d&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artip2&theme=github-dark&bg_color=0a120b&color=52b788&line=52b788&point=74c69d&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
