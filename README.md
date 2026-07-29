@@ -11,7 +11,7 @@
 
 <!-- РЯД ЗНАЧКОВ / БЕЙДЖЕЙ -->
 <div align="center">
-  <a href="https://t.me/YOUR_TELEGRAM_CHANNEL">
+  <a href="https://t.me/rucsu">
     <img src="https://img.shields.io/badge/Telegram-канал_«вбросы»-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
   </a>
   <a href="https://github.com/artip2">
@@ -67,5 +67,5 @@
 <!-- ГРАФИК АКТИВНОСТИ ВНИЗУ -->
 <div align="center">
   <h3>📊 Activity Graph</h3>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=artip2&theme=github-dark&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph" />
 </div>
