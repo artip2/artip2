@@ -14,7 +14,7 @@
   <a href="https://t.me/YOUR_TELEGRAM_CHANNEL">
     <img src="https://img.shields.io/badge/Telegram-канал_«вбросы»-000000?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
   </a>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/artip2">
     <img src="https://img.shields.io/badge/UI/UX-Digital_Design-111111?style=for-the-badge&logo=figma&logoColor=white" />
   </a>
   <a href="https://github.com/artip2">
